@@ -3,7 +3,6 @@ import { Comissionado } from "./model/Comissionado";
 import { Horista } from "./model/Horista";
 
 const a1 = new Assalariado (`Miroslav Klose`, `13121989`, 1500)
-
 a1.setNome(`Harry Styles`);
 a1.setCpf(`7070707070`);
 a1.setSalario(2500);
